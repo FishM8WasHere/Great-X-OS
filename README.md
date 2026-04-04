@@ -15,9 +15,7 @@ note: Order to run this BIOS 'n OS, you need to run in a Microsoft / Windows OS 
       and also run the BIOS + OS
 
       specs: 
-            RAM: 128b
-            ROM: 32b
-
-            and MEMORY: 1Kb
+            RAM: At least 512Kb
+            MEMORY: At least 500Kb
 
 -- Happy using :) 👑
